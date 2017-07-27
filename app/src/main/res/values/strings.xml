@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">ProgrammersCoffeeCounter</string>
+    <string name="app_name">Programmer\'s Coffee Counter</string>
+    <string name="start_a_new_project">Start a new project</string>
+    <string name="lines_of_code_per_esspresso">lines of code per esspresso</string>
+    <string name="your_efficiency_is">Your efficiency is </string>
+    <string name="coffee_points"> Coffee Points</string>
+    <string name="you_have">You have </string>
+    <string name="how_many_lines_of_code_you_ve_wrote">How many lines of code you\'ve wrote?</string>
+    <string name="decaf">Decaf</string>
+    <string name="tripplo">Tripplo</string>
+    <string name="americano">Americano</string>
+    <string name="doppio">Doppio</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="esspresso">Esspresso</string>
+    <string name="choose_your_coffee">Choose your coffee:</string>
 </resources>
